@@ -9,6 +9,10 @@ In this homework, I worked with gesture recognition data set. You can see my rep
 In this homework, I worked on 5 different univariate time series data set. My aim is compare alternative distance measures for classification. For classification, I used Nearest Neighbourhood setting with cross validation. 
 You can find my report [here](Files/HW3/IE48B-HW3-Report.html)
 
+## Homework 4:
+
+You can find my HW4 [here](Files/HW4/IE48B_Final_Report.html)
+
 ## Project:
 
 In this project, we are interested in the sign of the difference between the total volume of the down and up instructions in the Turkish Electricity Market. 
